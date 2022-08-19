@@ -1,0 +1,10 @@
+[[LibStdCxx]]
+arch = "x86_64"
+git-tree-sha1 = "2d0d94661b991858fec389d4add9ae7ac6ae0e71"
+libc = "glibc"
+os = "linux"
+sanitize = "memory"
+
+    [[LibStdCxx.download]]
+    sha256 = "c9c6b342d4d882e3428ae3328775eb5070b0ef0f771a8062c78b669c5741907c"
+    url = "https://github.com/JuliaBinaryWrappers/LibStdCxx_jll.jl/releases/download/LibStdCxx-v11.1.0+0/LibStdCxx.v11.1.0.x86_64-linux-gnu-sanitize+memory.tar.gz"
