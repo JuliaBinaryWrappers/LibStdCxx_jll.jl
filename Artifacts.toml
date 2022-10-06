@@ -1,10 +1,10 @@
 [[LibStdCxx]]
 arch = "x86_64"
-git-tree-sha1 = "cccb23108c71bcfe59d1e3453a7bac447a469acd"
+git-tree-sha1 = "d1fd8b7b6a26aaa13e4fd714030afb886386742e"
 libc = "glibc"
 os = "linux"
 sanitize = "memory"
 
     [[LibStdCxx.download]]
-    sha256 = "3601b0e03efac44318e2e4df649a38b198a68e040d4c3da4a2dc5f370437b7d1"
-    url = "https://github.com/JuliaBinaryWrappers/LibStdCxx_jll.jl/releases/download/LibStdCxx-v12.1.0+0/LibStdCxx.v12.1.0.x86_64-linux-gnu-sanitize+memory.tar.gz"
+    sha256 = "1ae9c4c0e3ae509ad4532832b04a43faf56bc48e6125f520f0d03511ca65a02d"
+    url = "https://github.com/JuliaBinaryWrappers/LibStdCxx_jll.jl/releases/download/LibStdCxx-v12.1.0+1/LibStdCxx.v12.1.0.x86_64-linux-gnu-sanitize+memory.tar.gz"
